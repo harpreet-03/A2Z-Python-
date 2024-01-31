@@ -49,7 +49,8 @@ Thank you to the Shrada Khapra for their continuous support and contributions to
 <br>
 Happy coding!
 <br>
-
+<hr>
+<br>
 <p>
 <b>
 <h3>Xcalibur</h3> 
