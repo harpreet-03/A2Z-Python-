@@ -46,13 +46,13 @@ The repository is organized alphabetically, with each section corresponding to a
 <h2>Acknowledgement </h2>
 Thank you to the Shrada Khapra for their continuous support and contributions to the world of programming.
 <br>
+<br>
 Happy coding!
-
-
+<br>
+<br>
 <p>
 <b>
 <h3>Xcalibur</h3> 
 </b>
-
 aka Harpreet Singh...
 </p>
