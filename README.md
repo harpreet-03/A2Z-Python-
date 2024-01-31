@@ -49,7 +49,7 @@ Thank you to the Shrada Khapra for their continuous support and contributions to
 <br>
 Happy coding!
 <br>
-<br>
+
 <p>
 <b>
 <h3>Xcalibur</h3> 
