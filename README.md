@@ -37,14 +37,17 @@ The repository is organized alphabetically, with each section corresponding to a
 
 <h3>Usage</h3>
 1. Navigation: Use the alphabetical directory structure to navigate to the section you are interested in.
+<br>
 2. Examples: Each section contains Python code examples related to the specific topic. Browse through the examples to understand and implement various Python concepts.
+<br>
 3. Comments: The code is extensively commented to provide explanations and insights into the functionality of each example. Take advantage of the comments to enhance your understanding.
+<br>
 
 <h2>Acknowledgement </h2>
 Thank you to the Shrada Khapra for their continuous support and contributions to the world of programming.
-
+<br>
 Happy coding!
 
 
 
-Xcalibur aka Harpreet Singh...
+<h2>Xcalibur</h2> aka Harpreet Singh...
