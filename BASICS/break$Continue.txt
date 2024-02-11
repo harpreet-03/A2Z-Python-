@@ -1,0 +1,6 @@
+
+
+break keyword: used to terminate the loop when encountered.
+
+Continue : terminates execution in the current iteration & continues execution of the loop
+with the next iteration.
