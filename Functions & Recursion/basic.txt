@@ -31,3 +31,16 @@ print(s(2,3))
 #User - defined functions:
 -> The function we define explicitly for our own purposes, eg. sum(a, b)
 
+----------------------------------------------------------------------
+When we define fucntion and we donot want to pass any argument int the fucntion and we want our fucntion to be running successfully, so then parameters in the function should be given default values.
+
+Assigning a default value to parameter, which is used when no argument is passed.
+
+def sum(a=1, b=1):
+    s = a + b
+    return s
+
+sum()
+
+// this function will run wihtout any error.
+

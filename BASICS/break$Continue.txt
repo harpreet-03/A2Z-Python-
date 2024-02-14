@@ -1,4 +1,9 @@
+to print on same line:
 
+print(hero[0], end = " ")
+print(hero[1], end = " ")
+
+----------------------------------------------------------------
 
 break keyword: used to terminate the loop when encountered.
 
