@@ -18,3 +18,16 @@ def sum(a, b):
     return s
 
 print(s(2,3))
+
+
+
+# Built - in functions:
+
+1. print()
+2. len()
+3. type()
+4. range()
+
+#User - defined functions:
+-> The function we define explicitly for our own purposes, eg. sum(a, b)
+
