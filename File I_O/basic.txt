@@ -1,0 +1,8 @@
+
+Python can be used to perform operations on a file. (read & write data)
+
+Types Of all files
+
+1. Text Fites : .txt, .docx, .log etc.
+2. Binary Files : .mp4, .mov, .png, .jpeg etc.
+
