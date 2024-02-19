@@ -36,6 +36,10 @@ Modes :
 '+'  ->   open a disk file for updating (reading and writing)
 
 
+'r+' -> read + overwrite (ptr start) -> no truncate
+'w+' -> read + overwrite  -> truncate
+'a+' -> append (ptr end)         -> no truncate
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 Writing to a file :
@@ -73,3 +77,11 @@ the data is: Hello, I'm Harpreet Singh, and I'm learning Python from APC
 
 #IMP POINT: 
 if there is no file exists while using write or append mode, python automatically creates a file.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+with Syntax:
+
+with open("demo2.txt", "a") as f:
+data = f.read()
