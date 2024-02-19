@@ -6,3 +6,16 @@ Types Of all files
 1. Text Fites : .txt, .docx, .log etc.
 2. Binary Files : .mp4, .mov, .png, .jpeg etc.
 
+# Open, read, & close files
+
+-> We've to open a file before reading or writing
+
+f = open("file_name", "mode")
+
+Mode:
+r: read mode
+w: write mode
+
+-- after then, read and close the file ::::::::::
+data = f.read()
+f.close()
