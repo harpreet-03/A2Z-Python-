@@ -7,4 +7,4 @@ elif(marks >= 80 and marks <90):
 elif(marks >=70 and marks <70):
     print("Grade = C")
 else:
-    print("Grade = D")6
+    print("Grade = D")
