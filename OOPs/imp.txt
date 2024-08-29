@@ -1,0 +1,9 @@
+1. del keyword:
+----------------
+
+- It is used to delete object properties or object itself.
+eg: 
+
+(a) del s1.name
+(b) del s1
+
