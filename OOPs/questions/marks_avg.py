@@ -17,4 +17,4 @@ class Student:
         return round((self.m1 + self.m2 + self.m3) / 3, 2)  # Round to 2 decimal places
     
 s1 = Student("Naman", 88,77,71)
-print("Avergae marks of Naman is", s1.averageM()) 
+print("\nAvergae marks of Naman is", s1.averageM()) 
